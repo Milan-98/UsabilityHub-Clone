@@ -1,0 +1,366 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Patrick+Hand&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.upper{
+    display: flex;
+    justify-content: center;
+    
+    background-color:#4fb3d4 ;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    background-image: image(asset 30.png);
+    
+    
+
+}
+body{
+    font-family: lato;
+}
+.upper2{
+
+    padding: 15px;
+    font-size: 0.9rem;
+    background-image: image(asset 30.png);
+    
+}
+.container{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    
+    
+
+}
+.nav{
+
+    display: flex;
+    flex-basis: 270px;
+    gap: 3rem;
+    flex-wrap: wrap;
+
+
+}
+li{
+    list-style: none;
+    text-decoration: none;
+
+}
+a{
+    text-decoration: 
+    none;
+}
+.kaka{
+    width: 200px;
+
+    
+}
+.navimg{
+    position: relative;
+}
+
+    .btn {
+        -webkit-border-radius: 5;
+        -moz-border-radius: 5;
+        border-radius: 5px;
+        text-shadow: 4px 3px 3px #666666;
+        font-family: Arial;
+        color: #453645;
+        font-size: 19px;
+        background: #e7eff5;
+        padding: 10px 20px 10px 20px;
+        border: solid #1f628d 1px;
+        text-decoration: none;
+        background-color: #ffffff;
+        color: #183b56;
+        text-shadow: none;
+      }
+      
+      .btn:hover {
+        background: #b5d3e6;
+        text-decoration: none;
+      }
+
+      .popo{
+        width: 600px;
+      }
+      .sectionbig{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+      }
+      .joroto{
+        display: flex;
+        flex-direction: column;
+        flex-basis: 400px;
+      }
+      .joroto h1{
+        font-size: 3rem;
+        margin-bottom:10px ;
+      }
+      .joroto p{
+        font-size: 1.2rem;
+        margin-bottom: 10px;
+      }
+      .fofo{
+        display: flex;
+        max-width: fit-content;
+        margin-top: 20px;
+        background-color: #ffffff;
+        color: #183b56;
+        text-shadow: none;
+
+      }
+      .mian{
+        display: flex;
+        justify-content: center;
+        margin-top: 70px;
+
+      }
+      .vovo{
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: #453645;
+      }
+      .poto{
+        width: 100px;
+      }
+      .multilogo{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+      }
+      .lop{
+        max-width: fit-content;
+        background-color: #ffffff;
+        color: #183b56;
+        text-shadow: none;
+
+
+        
+      }
+      .boba{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+      }
+
+      .yuyu{
+        display: flex;
+        justify-content: center;
+        margin-top: 100px;
+
+      }
+      .kl{
+        max-width: fit-content;
+      }
+      .features{
+        display: flex;
+        gap: 2rem;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+      
+        align-items:center ;
+        max-width: 80%;
+      }
+      .dream p{
+        max-width: 250px;
+        margin-top: 20px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: #666666;
+      }
+      .dream h2{
+        margin-top: 20px;
+      }
+      .dream{
+        text-align: center;
+        margin: 30px 0px;
+
+      
+        
+
+      }
+      .kl{
+        position: relative;
+        left: 53px;
+        margin-top: 20px;
+        background-color: #ffffff;
+        color: #183b56;
+        text-shadow: none;
+      }
+      .kl:hover{
+        color: #2294ad;
+        background-color: white;
+      }
+
+    
+      .second{
+        margin-top: 100px;
+        display: flex;
+        
+        justify-content: space-evenly;
+        align-items: center;
+      }
+.selomen p{
+  max-width: 400px;
+  font-size: 1.2rem;
+  padding-bottom: 20px;
+  font-weight: 900px;
+  color: #453645;
+
+}
+.selomen h3{
+  padding-bottom: 15px;
+  color: #666666;
+}
+.selomen h1{
+  padding-bottom: 20px;
+  color: #4fb3d4;
+  
+}
+.selomeny h3{
+  padding-bottom: 15px;
+  color: #666666;
+
+}
+.selomeny p{
+  max-width: 350px;
+  font-size: 1.2rem;
+  padding-bottom: 20px;
+  font-weight: 900;
+  color: #453645;
+
+}
+      .photoo{
+        display: flex;
+        align-items: center;
+      
+      }
+      .nm h4{
+        font-size: 1.2rem;
+        margin-bottom: 3px;
+
+
+      }
+      .nm h5{
+        padding-bottom: 5px;
+        color: #453645;
+      }
+      .third{
+        margin-top: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 4rem;
+
+
+      }
+      .sosu{
+        width: 600px;
+      }
+      .third p{
+        max-width: 400px;
+      }
+      .weightp{
+        max-width: 300px;
+        max-width: 350px;
+  font-size: 1.2rem;
+  padding-bottom: 20px;
+  font-weight: 900;
+  color: #453645;
+
+      }
+      .smallthird h3{
+        padding-bottom: 15px;
+        color: #666666;
+
+      }
+      .smallthird h1{
+        padding-bottom: 20px;
+        color: #4fb3d4;
+        font-size: 2.3rem;
+
+      }
+.smallthird p{
+  ax-width: 400px;
+  font-size: 1.2rem;
+  padding-bottom: 20px;
+  font-weight: 900px;
+  color: #453645;
+
+}
+.philips{
+  width: 100px;
+  padding-bottom: 10px;
+  
+
+}
+.mhj{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.jj{
+  width: 50px;
+  
+}
+.lol{
+  margin-top: 100px;
+  display: flex;
+  background-color: #183b54;
+  align-items: center;
+  justify-content: center;
+}
+.bhu{
+  width: 600px;
+}
+.kiki h1{
+  font-size: 2.5rem;
+  color: #e7eff5;
+  
+}
+.kiki p{
+  max-width: 600px;
+  color: #b9cde4;
+  font-size: 20px;
+  padding: 20px 0;
+  line-height: 1.5;
+}
+.ulist h3{
+
+  text-align: left;
+  font-size: 20px;
+  color: antiquewhite;
+  padding-bottom: 10px;
+
+  
+  
+
+}
+.ulist ul{
+    padding: 10px;
+    font-size: 16px;
+    color: #b9cde4;
+    text-transform: lowercase;
+}
+
+
+      .kj{
+        max-width: fit-content;
+        background-color: #2294ed;
+        margin-top: 20px;
+        color: #ffffff;
+      }
+      .kj:hover{
+        background-color: #0061ad;
+      }
+
+
+
+
