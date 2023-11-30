@@ -29,7 +29,7 @@ While facing issues on this project i got solution from kevin powell (youtuber).
   
 ## Documentation
 
-[Project-Link](https://usability-hub-clone-9.netlify.app)
+[Project-Link is not working, due to netlify issues](https://usability-hub-clone-9.netlify.app)
 
 
 ## Feedback
